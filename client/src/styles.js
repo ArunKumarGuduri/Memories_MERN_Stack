@@ -5,7 +5,7 @@ export default makeStyles((theme) => ({
         margin: '30px 0',
         display: 'flex',
         flexDirection: 'row !important',
-        justifyContent: 'center',
+        justifyContent: 'space-between',
         alignItems: 'center',
     },
     heading: {
